@@ -9,7 +9,7 @@ This project provides the most important methods of the original code associated
 
 > Nicolas Honnorat, Mohamad Habes. "Covariance Shrinkage for Functional Connectomes." submitted to NeuroImage
 
-Please cite the last version of the article if/when it will be published. 
+Please cite the last version of the article when it will be published. 
 
 # Usage
 
